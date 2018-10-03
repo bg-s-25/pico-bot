@@ -4,7 +4,7 @@ Pico Bot is a fully functional simple bot made for Discord. It can perform simpl
 
 ## Commands
 /add - Add multiple integers<br/>
-/channel <c/d> - Create or delete a channel<br/>
+/channel <c/d> <name> - Create or delete a channel<br/>
 /flip <n> - Flip n coins<br/>
 /hello - Mention the user<br/>
 /help - Display all commands<br/>
